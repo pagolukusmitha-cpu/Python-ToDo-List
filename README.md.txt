@@ -32,6 +32,9 @@ ToDo-List-App
 ├── tasks.txt
 └── README.md
 ```
+## Screenshot
+![To-Do List App]
+(todo_screenshot.png)
 
 ## Author
 **Pagolu Kusmitha**  
